@@ -21,7 +21,7 @@
         "@tailwindcss/line-clamp": "^0.4.2",
         "@types/react-dom": "^17.0.11",
         "autoprefixer": "^10.4.8",
-        "axios": "^0.24.0",
+        "axios": "^0.30.3",
         "base64url": "^3.0.1",
         "clsx": "^1.1.1",
         "docusaurus-plugin-copy": "^0.1.1",
@@ -39,7 +39,7 @@
         "react-share": "^4.4.0",
         "react-twitter-widgets": "^1.11.0",
         "react-use-cookie": "^1.4.0",
-        "swiper": "^8.4.5",
+        "swiper": "^12.1.2",
         "tailwindcss": "^3.1.8"
     },
     "browserslist": {
