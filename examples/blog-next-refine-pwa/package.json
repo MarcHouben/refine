@@ -13,7 +13,7 @@
         "@pankod/refine-cli": "^1.17.0",
         "@pankod/refine-nextjs-router": "^4.3.0",
         "@pankod/refine-simple-rest": "^3.37.4",
-        "next": "^13.0.6",
+        "next": "^16.2.0",
         "cross-env": "^7.0.3",
         "next-compose-plugins": "^2.2.1",
         "react": "^18.0.0",
